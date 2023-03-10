@@ -1,0 +1,12 @@
+.App > div{
+    display: flex;
+    justify-content: space-between;
+
+}
+.cards{
+    display: flex;
+
+}
+.cards img {
+    width: 200px;
+}
