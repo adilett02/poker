@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poker/static/css/main.1792bad3.css",
+    "main.js": "/poker/static/js/main.8b58749e.js",
+    "static/js/787.01f84548.chunk.js": "/poker/static/js/787.01f84548.chunk.js",
+    "index.html": "/poker/index.html",
+    "main.1792bad3.css.map": "/poker/static/css/main.1792bad3.css.map",
+    "main.8b58749e.js.map": "/poker/static/js/main.8b58749e.js.map",
+    "787.01f84548.chunk.js.map": "/poker/static/js/787.01f84548.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1792bad3.css",
+    "static/js/main.8b58749e.js"
+  ]
+}

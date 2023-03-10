@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1792bad3.css","mappings":"AAAA,SAEI,6BAEJ,CACA,gBAJI,YAOJ,CACA,WACI,WACJ","sources":["app.css"],"sourcesContent":[".App > div{\r\n    display: flex;\r\n    justify-content: space-between;\r\n\r\n}\r\n.cards{\r\n    display: flex;\r\n\r\n}\r\n.cards img {\r\n    width: 200px;\r\n}"],"names":[],"sourceRoot":""}
