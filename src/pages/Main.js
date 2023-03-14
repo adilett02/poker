@@ -168,10 +168,10 @@ const Main = () => {
       <button onClick={giveTableCard}>{data ? data.table.status : 'wef'}</button>
 
       {handCard.map((el) => (
-        <img key={el} src={`./${localImg ? 'poker/' : ''}cards/${el}.svg`} alt="" />
+        <img key={el} src={`./cards/${el}.svg`} alt="" />
       ))}
       {tableCard.map((el) => (
-        <img key={el} src={`./${localImg ? 'poker/' : ''}cards/${el}.svg`} alt="" />
+        <img key={el} src={`./cards/${el}.svg`} alt="" />
       ))}
     </div>
   );
